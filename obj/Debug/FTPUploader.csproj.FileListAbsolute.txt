@@ -1,0 +1,12 @@
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\bin\Debug\FTPUploader.exe
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\bin\Debug\FTPUploader.pdb
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.csprojAssemblyReference.cache
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.Form1.resources
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.Properties.Resources.resources
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.csproj.GenerateResource.cache
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.exe
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.pdb
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\bin\Debug\MetroFramework.Design.dll
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\bin\Debug\MetroFramework.dll
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\OmarM\Downloads\Compressed\FTPUploader\FTPUploader\obj\Debug\FTPUploader.csproj.CopyComplete
